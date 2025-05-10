@@ -47,6 +47,11 @@ header{
     margin: 50px;
 }
 
+.corisa article{
+    display: flex;
+    justify-content: center;
+}
+
 .corisa:hover{
     background-color: #5190A5;
     color: white;
